@@ -107,38 +107,7 @@ This graph structure allows detection of:
 
 ## 🏗️ System Architecture
 ---
-Bitcoin Transaction Dataset
-        │
-        ▼
-Data Cleaning & Preprocessing
-        │
-        ▼
-Feature Engineering
-(166 Behavioral + Graph Features)
-        │
-        ▼
-Label Handling
-(Labelled + Unlabelled Data)
-        │
-        ▼
-Supervised Model
-(LightGBM Classifier)
-        │
-        ▼
-Semi-Supervised Learning
-(Pseudo Labeling)
-        │
-        ▼
-Graph Analytics
-(NetworkX Metrics)
-        │
-        ▼
-Risk Prediction
-(Safe / Low / Medium / High)
-        │
-        ▼
-TIGER Visualization
-(Graph Investigation Tool)
+<img width="347" height="597" alt="image" src="https://github.com/user-attachments/assets/9ac0c976-5a92-4bb3-b845-d1782a7ff0f1" />
 
 
 ## 🧠 Models & Techniques Used
@@ -287,5 +256,5 @@ Deployment platforms:
 ---
 🔗 Live Demo: https://huggingface.co/spaces/Nikhil0702/Bitcoin_Transaction_Fraud_Explorer
 
-### 📝 If it is sleeping just click on the "Restart the Space"
+### 📝NOTE: -If it is sleeping just click on the "Restart the Space"
 
